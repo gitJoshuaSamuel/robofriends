@@ -3,7 +3,7 @@ import {robots} from './robots';
 import { CardList } from './CardList';
 import {SearchBox} from './SearchBox';
 import {Scroll} from './Scroll';
-
+//redux
 const state={
    
 }
